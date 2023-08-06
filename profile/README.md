@@ -1,12 +1,5 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Kop_Notifier
+리버풀 관련 기사 모음 및 알람 안드로이드 어플리케이션
+- 네이버 해외축구 기사 타이틀에 '리버풀'이 포함된 기사
+- 축구관련 최대 규모 커뮤니티 사이트 에펨코리아에서 검색어 '리버풀' 글
+- 다음 해외축구 기사 타이틀에 '리버풀'이 포함된 기사
